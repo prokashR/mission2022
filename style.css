@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+}
+.top-banner{
+    display: flex;
+    margin-top:5%;
+}
+.half-width{
+    width: 40%;
+    margin-left: 10%;
+}
+.img-size{
+    width:70%;
+    margin-top:-120px;
+}
+img{
+    width: 100%;
+}
+.h1-heading{
+    font-family: 'Yeseva One';
+    font-size: 70px;
+}
+.h1-heading{
+    font-family: 'Yeseva One';
+    font-size:70px;
+}
+span{
+    color: gold;
+}
+.sitz-border{
+    border-left: 6px solid tomato;
+    border-radius: 20px;
+    padding-left: 10px;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-bottom: 5%;
+    margin-top: 50px;
+}
+#link-button{
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    font-size: 22px;
+    color: #fff;
+    background-color: tomato;
+    padding: 14px 38px;
+    border-radius: 8px;
+}
+/*mission 2022 pert2 hedding*/
+.headding-pert2{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
+.box-leter{
+    margin-left: 6%;
+    width: 20%;
+    border-radius: 10%;
+    padding: 6px 55px;
+}
+.pragragh{
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+    font-size:22px;
+}
+.box-leter img{
+    width: 50%;
+}
+.box1{
+    background-color:#EDF5F6;
+}
+.box2{
+    background-color:#FFEEEE;
+}
+.box3{
+    background-color:#FFF4D6;
+}
+.head-size{
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+/*mission 2022 three mission*/
