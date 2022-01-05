@@ -102,3 +102,24 @@ p{
     width: 70%;
     margin-left: -13%;
 }
+/*devoloper code uplode*/
+.heading-h1{
+    font-family: 'Poppins', sans-serif;
+    font-size:60px;
+    text-align: center;
+}
+.footer-color{
+    height:200px;
+    background-color:#000;
+}
+.footer-heading{
+    font-family: 'Lobster', cursive;
+    font-size:50px;
+    text-align: center;
+    color: #fff;
+}
+.paregragh-footer{
+    text-align: center;
+    color: #d4d4d4;
+    font-family: 'Poppins', sans-serif;
+}
